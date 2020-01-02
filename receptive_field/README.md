@@ -17,7 +17,7 @@ python calculate_receptive_field2.py
 <br>https://zhuanlan.zhihu.com/p/56940729</br>
 
 A guide to receptive field arithmetic for Convolutional Neural Networks
-https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
+<br>https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807</br>
 
 如何计算感受野(Receptive Field)——原理
-https://zhuanlan.zhihu.com/p/31004121
+<br>https://zhuanlan.zhihu.com/p/31004121</br>
